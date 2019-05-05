@@ -1,4 +1,4 @@
-#Array Practice 
+# Array Practice 
 
 Copy the JSON from cars.json and assign it to a variable in a new application. This data holds sales information for a car dealership. Your job is to produce the following reports for the dealership based on their total 2017 sales.
 
